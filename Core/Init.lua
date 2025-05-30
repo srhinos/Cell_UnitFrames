@@ -38,6 +38,11 @@ CUF.Mixin = {}
 ---@field testMode boolean
 ---@field isMenuOpen boolean
 ---@field isRetail boolean
+---@field isVanilla boolean
+---@field isBCC boolean
+---@field isWrath boolean
+---@field isCata boolean
+---@field isTWW boolean
 ---@field selectedTab string
 ---@field selectedSubTab string
 ---@field inEditMode boolean
